@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../scss/app.scss",
+        "../scss/_fonts.scss",
+        "../scss/_variables.scss",
+        "../scss/_reboot.scss",
+        "../scss/_utilities.scss",
+        "../scss/_components.scss",
+        "../scss/_pages.scss"
+    ],
+    "names": [],
+    "file": "app.css"
+}

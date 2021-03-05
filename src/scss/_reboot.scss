@@ -1,0 +1,30 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    quotes: none;
+    text-decoration: unset;
+    outline: none;
+    border: none;
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    font-family: 'Poppins', sans-serif !important;
+    overflow-x: hidden;
+    margin: 0px auto;
+}
+
+a,
+button {
+    cursor: pointer;
+}
